@@ -6,3 +6,16 @@ img{
 nav {
     font-family: Arial, sans-serif;
 }
+header {
+    background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--Gf5bFtfY--/c_scale,f_auto,fl_progressive,q_80,w_800/fgegh5lpzwg0jddbbaps.png");
+    background-size: cover;
+    height: 40vw;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36pt;
+    color: purple;
+    text-align: center;
+}
