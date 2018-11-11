@@ -2,3 +2,7 @@ img{
   width: 400px;
   height: 300px!important;
 }
+
+nav {
+    font-family: Arial, sans-serif;
+}
