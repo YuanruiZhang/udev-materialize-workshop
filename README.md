@@ -18,4 +18,4 @@
 ### Footer
 - Create a footer that spans the entire width of the page.
 
-Our work: https://ss251.github.io/udev-materialize-workshop/
+Our work: https://yuanruizhang.github.io/udev-materialize-workshop/
